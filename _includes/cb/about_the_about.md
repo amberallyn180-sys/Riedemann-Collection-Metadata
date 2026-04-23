@@ -38,18 +38,6 @@ The template provides includes to pull your collection objects and metadata into
 
 {% include feature/pdf.html objectid=pdfsampleid width="50" %}
 
-#### Include a Video
-
-- Video: `{% raw %}{% include feature/video.html objectid="demo_004" %}{% endraw %}`
-
-{% include feature/video.html objectid=videosampleid width="75" %}
-
-#### Include an Audio File
-
-- Audio: `{% raw %}{% include feature/audio.html objectid="demo_003" %}{% endraw %}`
-
-{% include feature/audio.html objectid=audiosampleid  %}
-
 ### Include Bootstrap Features
 
 The template also provides includes to make it easier to add [Bootstrap](https://getbootstrap.com/) components to your Markdown writing.
