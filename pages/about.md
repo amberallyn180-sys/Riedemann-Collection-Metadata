@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This colletion consists of pictures of my two dogs, Denoseo and Louie. I have taken pictures of my dogs over the last decade that show the unique expereiences pet owners face. I hope this collection will spread the joy that my dogs have given me with others.
+This colletion consists of pictures of my two dogs, Denoseo and Louie. I have taken pictures of my dogs over the last four years that show the unique expereiences pet owners face. I hope this collection will spread the joy that my dogs have given me with others.
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
